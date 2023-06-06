@@ -1,0 +1,33 @@
+<html>
+    <header>
+        <title>MY CV</title>
+    </header>
+    <body>
+        <h1><u>CV/CURRICULUM VITAE</u></h1>
+        <h2><i><u>Personal Information:</u></i></h2>
+        <p><b>Name: Muhammad Saad Ansari</b></p>
+        <p><b>Father's Name: Muhammad Usman</b></p>
+        <p><b>Date Of Birth: 29<sup>th</sup>August,2005</b></p>
+        <p><b>Nationality: Pakistani</b></p>
+        <h2><i><u>Contact Information:</u></i></h2>
+        <p><b>Residential Address: XYZ</b></p>
+        <p><b>Email Adress: saadansari923@gmail.com</b></p>
+        <p><b>Mobile Number: 0300-1234567</b></p>
+        <h2><i><u>Educational Details:</u></i></h2>
+        <p><b>College Name: AdamJee Govt.Science College</b></p>
+        <p><b>Degree: Intermediate(Computer Science)</b></p>
+        <p><b>School Name: Islamia English Model School</b></p>
+        <p><b>Degree: Matriculation(Science)</b></p>
+        <h2><i><u>ComputerSkills:</u></i></h2>
+        <p><b>*Windows Installation</b></p>
+        <p><b>*Software And Hardware Troubleshooting</b></p>
+        <p><b>*Programming Languages: (Python)</b></p>
+        <p><b>*Microsoft Office</b></p>
+        <h2><i><u>Experience:</u></i></h2>
+        <p><b>Company Name: ABC Software House</b></p>
+        <p><b>Designation: Sorfware Engineer</b></p>
+        <p><b>Duration: 2 Years</b></p>
+        <h2><i><u>Objective:</u></i></h2>
+        <p><b>To Secure A Position In Your Reputable Organization For Learning The New Advancement As Per My Field Of Study</b></p>
+    </body>
+</html>
